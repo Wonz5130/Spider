@@ -8,3 +8,6 @@
 ### 相关链接
 [照片地址一](https://www.douban.com/photos/album/138194636/)  
 [照片地址二](https://www.douban.com/photos/album/35398857/)  
+
+### 一些补充
+代码还有待完善，会爬到一些奇怪的类似于豆瓣用户头像的照片，不知道问题在哪，待解决。
