@@ -5,9 +5,17 @@
 经过一番搜索，终于在豆瓣发现了“徐若瑄 天使心”的相册。  
 正好，最近在学爬虫，就献丑，试着爬了一下这套写真集。  
 
+### 放几张皂片~
+![](https://github.com/Wonz5130/Spider/tree/master/Vivian%20Hsu/Photos/1.jpg)  
+ 
+![](https://github.com/Wonz5130/Spider/tree/master/Vivian%20Hsu/Photos/9.jpg)  
+
+![](https://github.com/Wonz5130/Spider/tree/master/Vivian%20Hsu/Photos/32.jpg)
+
+
 ### 相关链接
-[照片地址一](https://www.douban.com/photos/album/138194636/)  
-[照片地址二](https://www.douban.com/photos/album/35398857/)  
+[豆瓣相册地址一](https://www.douban.com/photos/album/138194636/)  
+[豆瓣相册地址二](https://www.douban.com/photos/album/35398857/)  
 
 ### 一些补充
 代码还有待完善，会爬到一些奇怪的类似于豆瓣用户头像的照片，不知道问题在哪，待解决。
