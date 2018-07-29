@@ -6,4 +6,9 @@
 ### 放几张皂片~
 ![](https://github.com/Wonz5130/Spider/raw/master/Takeshi%20Kaneshiro/Photos/1.jpg)  
 
-![](https://github.com/Wonz5130/Spider/raw/master/Takeshi%20Kaneshiro/Photos/71.jpg)
+![](https://github.com/Wonz5130/Spider/raw/master/Takeshi%20Kaneshiro/Photos/7.jpg)  
+
+![](https://github.com/Wonz5130/Spider/raw/master/Takeshi%20Kaneshiro/Photos/13.jpg)  
+
+### 一些补充
+GitHub文件夹最多只能放1000张照片，其实爬了1020张照片，就先放前1000张好啦~
