@@ -10,5 +10,8 @@
 
 ![](https://github.com/Wonz5130/Spider/raw/master/Takeshi%20Kaneshiro/Photos/13.jpg)  
 
+### 相关链接  
+[豆瓣地址](https://movie.douban.com/celebrity/1027883/photos/?type=C&start=0&sortby=like&size=a&subtype=a)  
+
 ### 一些补充
 GitHub文件夹最多只能放1000张照片，其实爬了1020张照片，就先放前1000张好啦~
